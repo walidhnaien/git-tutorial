@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change3 walid
+=======
+change3 Conflict
+>>>>>>> conflictWalid
